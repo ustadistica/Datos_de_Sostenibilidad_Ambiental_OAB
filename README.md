@@ -1,6 +1,6 @@
 # Datos_de_Sostenibilidad_Ambiental_OAB
 
-## 1. Introducción y Descripción general 
+## 1. Introducción y Descripción general de los geoservicios del Observatorio Ambiental de Bogotá (OAB)
 
 Los geoservicios del Observatorio Ambiental de Bogotá (OAB) son herramientas digitales que permiten acceder, visualizar y descargar información georreferenciada sobre el ambiente de la ciudad. Estos servicios ponen a disposición de la ciudadanía datos espaciales en tiempo real o históricos, organizados en mapas interactivos, para facilitar la comprensión de problemáticas ambientales y apoyar la toma de decisiones. Su principal característica es que combinan información técnica con una interfaz accesible al público, lo que fortalece la participación ciudadana, la transparencia y el uso educativo de la información ambiental.
 
