@@ -103,6 +103,8 @@ El otro reto de la accesibilidad y el uso de los datos. Aunque la información e
 
 [Observatorio Ambiental de Bogotá](https://oab.ambientebogota.gov.co/)
 
+
+
 ## Propuesta para la construcción de series temporales con indicadores de Agua, Aire y Cambio Climático del Observatorio Ambiental de Bogotá
 
 
