@@ -77,7 +77,7 @@ En el Observatorio Ambiental de Bogotá, dentro de la sección de geoservicios, 
 3.	Red de Microsensores de Calidad del Aire →la Red de Microsensores de Calidad del Aire es un geoservicio de carácter participativo que involucra a la ciudadanía en el monitoreo ambiental. Funciona a través de dispositivos pequeños, portátiles y de bajo costo llamados microsensores, que se instalan en diferentes puntos de la ciudad para medir variables como material particulado, concentración de gases contaminantes y condiciones meteorológicas. Los datos generados complementan la información de las estaciones oficiales de la Secretaría Distrital de Ambiente y ayudan a construir un panorama más detallado sobre la calidad del aire en los barrios y localidades.
 
 
-# Detalle de los Datasets
+### Detalle de los Datasets
 
 En la plataforma de la OAB permite algunas veces descargar datos si te registras (incluso solo con una cuenta de correo electrónico tipo Gmail). Esto suele instalar un portal de descarga donde están disponibles diferentes formatos COMO (shapefiles, CSV, entre otros).
 
@@ -85,7 +85,7 @@ En estas áreas podrían incluir manuales o enlaces detallados sobre cómo desca
 
 A menudo es la vía más efectiva para obtener datasets específicos, como información de cámaras trampa, registros de sensores o capas georreferenciadas de eventos ambientales.
 
-#  Calidad de los datos 
+###  Calidad de los datos 
 
 En el Visor Geográfico Ambiental, la calidad de los datos es alta porque provienen de entidades oficiales como la Secretaría de Ambiente, el IDIGER, entre otros . Están georreferenciados con sistemas cartográficos estándar, lo que asegura precisión espacial. Además, muchas capas se actualizan periódicamente o incluso en tiempo real, como las de calidad del aire y emergencias ambientales.
 
@@ -93,15 +93,15 @@ La Red de Monitoreo de Fauna ofrece datos puntuales y confiables sobre la biodiv
 
 La Red de Microsensores de Calidad del Aire proporciona información en tiempo cercano al real, gracias a dispositivos de bajo costo instalados en diferentes localidades. Estos datos son útiles para identificar tendencias y acercar la ciencia a la ciudadanía. Sin embargo, su exactitud técnica es menor que la de las estaciones oficiales, por lo que suelen usarse como complemento.
 
-## Retos 
+### Retos 
 
 Uno de los principales retos es la actualización constante de los datos. Aunque el visor y los sensores cuentan con información útil, no siempre todas las capas se actualizan con la misma frecuencia, lo que puede generar vacíos en la toma de decisiones.
 
 El otro reto de la accesibilidad y el uso de los datos. Aunque la información es pública, no todas las personas tienen las habilidades técnicas para interpretar mapas, descargar capas o analizar datasets. Esto limita el potencial de los geoservicios como herramientas de participación ciudadana.
 
-# Via de acceso 
+## Via de acceso 
 
-[Observatorio Ambiental de Bogotá](https://oab.ambientebogota.gov.co/)
+[Observatorio Ambiental de Bogotá](https://oab.ambientebogota.gov.co/).
 
 
 
