@@ -75,5 +75,70 @@ En el Observatorio Ambiental de Bogotá, dentro de la sección de geoservicios, 
 2.	Red de Monitoreo de Fauna → La Red de Monitoreo de Fauna es un geoservicio diseñado para registrar y dar a conocer la biodiversidad presente en Bogotá. Utiliza principalmente cámaras trampa instaladas en ecosistemas estratégicos como humedales, cerros orientales y parques ecológicos. Estas cámaras capturan imágenes y videos de animales silvestres en su entorno natural, sin necesidad de intervención humana, lo que permite identificar especies nativas, migratorias o incluso algunas en riesgo de amenaza. Además de visibilizar la fauna de la ciudad, esta red busca fomentar la conciencia ciudadana sobre la importancia de conservar los hábitats urbanos y periurbanos. 
    
 3.	Red de Microsensores de Calidad del Aire →la Red de Microsensores de Calidad del Aire es un geoservicio de carácter participativo que involucra a la ciudadanía en el monitoreo ambiental. Funciona a través de dispositivos pequeños, portátiles y de bajo costo llamados microsensores, que se instalan en diferentes puntos de la ciudad para medir variables como material particulado, concentración de gases contaminantes y condiciones meteorológicas. Los datos generados complementan la información de las estaciones oficiales de la Secretaría Distrital de Ambiente y ayudan a construir un panorama más detallado sobre la calidad del aire en los barrios y localidades.
-   
 
+
+## Propuesta para la construcción de series temporales con indicadores de Agua, Aire y Cambio Climático del Observatorio Ambiental de Bogotá
+
+
+El Observatorio Ambiental de Bogotá (OAB) ofrece un sistema de información con más de 400 indicadores que permiten analizar la situación ambiental de la ciudad. Entre los campos más relevantes para la gestión urbana sostenible se encuentran los indicadores de Agua, Aire y Cambio Climático, los cuales son esenciales para la planificación de políticas públicas, el seguimiento de los Objetivos de Desarrollo Sostenible (ODS) y la toma de decisiones basadas en evidencia.
+
+Sin embargo, estos indicadores suelen estar disponibles de manera fragmentada y dispersa, dificultando el análisis longitudinal y comparativo. Por ello, proponemos una estrategia metodológica para organizar y construir series temporales por cada inidicador segmentando las tres ramas temáticas, con el fin de mejorar la trazabilidad histórica y el análisis prospectivo.
+
+
+### Metodología propuesta
+
+#### Recolección de indicadores
+
+Se seleccionarán todos los indicadores disponibles en el OAB asociados a:
+
+Agua: calidad, disponibilidad, consumo, fuentes hídricas, saneamiento.
+
+Aire: calidad del aire, concentraciones de material particulado, gases contaminantes.
+
+Cambio Climático: emisiones de gases de efecto invernadero, ozono, temperaturas promedio.
+
+#### Consolidación en bases temáticas
+
+Para cada rama se construirá una base de datos única:
+
+Base Agua: contendrá todos los indicadores relacionados con el recurso hídrico en formato anual, mensual o diario, según disponibilidad.
+
+Base Aire: integrará los indicadores de calidad atmosférica, organizados por estación de monitoreo y fecha.
+
+Base Cambio Climático: concentrará los indicadores de emisiones, en formato anual, mensual o diario, según disponibilidad.
+
+
+Cada base contará con campos estandarizados:
+
+Nombre del indicador.
+
+Unidad de medida.
+
+Periodicidad (diaria, mensual, anual).
+
+Valor.
+
+
+#### Construcción de series temporales
+
+Se organizarán los indicadores en series de tiempo, alineando cronológicamente los datos para identificar:
+
+Tendencias de largo plazo.
+
+Ciclos estacionales.
+
+Comportamientos anómalos o extremos.
+
+
+#### Segmentación y visualización
+
+Cada indicador por rama (Agua, Aire y Cambio Climático) tendrá su propia serie temporal consolidada.
+
+
+
+## Conclusion
+
+Se han presentado dos propuestas con enfoques distintos para el manejo de la pagina del Observatorio Ambiental de Bogotá. Por un lado, la consolidación de series temporales a sus indicadores segmentadas por rama (Agua, Aire y Cambio Climático), que permitiría un análisis especializado y profundo en cada ámbito. Por otro, una enseñaza de los datos geocodifcados encontrados en la la pagina, que permitira entender como funciona los datos a diferentes usuarios estadísticos de la pagina OAB.
+   
+Ambos proyectos representan caminos válidos y estratégicos, pero con objetivos y alcances diferentes. La decisión final dependerá de las prioridades institucionales.
+En ese sentido, corresponde a los responsables del proceso definir cuál de los dos proyectos se ajusta mejor a sus necesidades y capacidades de implementación.
