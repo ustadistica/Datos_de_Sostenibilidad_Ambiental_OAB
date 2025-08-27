@@ -104,6 +104,14 @@ El otro reto de la accesibilidad y el uso de los datos. Aunque la información e
 [Observatorio Ambiental de Bogotá](https://oab.ambientebogota.gov.co/).
 
 
+## Informe de Viabilidad
+
+El proyecto geoespacial en el Observatorio Ambiental de Bogotá es viable, ya que los tres geoservicios (Visor Geográfico Ambiental, Red de Fauna y Red de Microsensores de Aire) ofrecen datos oficiales, accesibles y en formatos estándar que facilitan su uso en sistemas SIG.
+
+Las principales ventajas son la calidad de la información, su actualización periódica y la posibilidad de análisis integrados. Los retos se centran en la cobertura desigual de algunos servicios y la necesidad de capacitación para interpretar los datos.
+
+En conclusión, el proyecto es factible y útil para la gestión ambiental, la investigación y la participación ciudadana.
+
 
 ## Propuesta para la construcción de series temporales con indicadores de Agua, Aire y Cambio Climático del Observatorio Ambiental de Bogotá
 
