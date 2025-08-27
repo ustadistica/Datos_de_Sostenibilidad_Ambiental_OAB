@@ -77,6 +77,23 @@ En el Observatorio Ambiental de Bogotá, dentro de la sección de geoservicios, 
 3.	Red de Microsensores de Calidad del Aire →la Red de Microsensores de Calidad del Aire es un geoservicio de carácter participativo que involucra a la ciudadanía en el monitoreo ambiental. Funciona a través de dispositivos pequeños, portátiles y de bajo costo llamados microsensores, que se instalan en diferentes puntos de la ciudad para medir variables como material particulado, concentración de gases contaminantes y condiciones meteorológicas. Los datos generados complementan la información de las estaciones oficiales de la Secretaría Distrital de Ambiente y ayudan a construir un panorama más detallado sobre la calidad del aire en los barrios y localidades.
 
 
+# Detalle de los Datasets
+
+En la plataforma de la OAB permite descargar datos si te registras (incluso solo con una cuenta de correo electrónico tipo Gmail). Esto suele instalar un portal de descarga donde están disponibles diferentes formatos COMO (shapefiles, CSV, entre otros).
+
+En estas áreas podrían incluir manuales o enlaces detallados sobre cómo descargar datos. En algunos portales GIS, esta sección explica cómo extraer los datasets en formatos compatibles con herramientas SIG.
+
+A menudo es la vía más efectiva para obtener datasets específicos, como información de cámaras trampa, registros de sensores o capas georreferenciadas de eventos ambientales.
+
+#  Calidad de los datos 
+
+En el Visor Geográfico Ambiental, la calidad de los datos es alta porque provienen de entidades oficiales como la Secretaría de Ambiente, el IDIGER, entre otros . Están georreferenciados con sistemas cartográficos estándar, lo que asegura precisión espacial. Además, muchas capas se actualizan periódicamente o incluso en tiempo real, como las de calidad del aire y emergencias ambientales.
+
+La Red de Monitoreo de Fauna ofrece datos puntuales y confiables sobre la biodiversidad de Bogotá. Los registros provienen de cámaras trampa instaladas en ecosistemas estratégicos como humedales y cerros. Si bien las observaciones son precisas, la cobertura es limitada, pues no abarcan toda la ciudad, sino zonas específicas.
+
+La Red de Microsensores de Calidad del Aire proporciona información en tiempo cercano al real, gracias a dispositivos de bajo costo instalados en diferentes localidades. Estos datos son útiles para identificar tendencias y acercar la ciencia a la ciudadanía. Sin embargo, su exactitud técnica es menor que la de las estaciones oficiales, por lo que suelen usarse como complemento.
+
+
 ## Propuesta para la construcción de series temporales con indicadores de Agua, Aire y Cambio Climático del Observatorio Ambiental de Bogotá
 
 
