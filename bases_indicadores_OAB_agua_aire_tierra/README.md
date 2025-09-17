@@ -42,6 +42,10 @@ Empresa de Acueducto y Alcantarillado de Bogotá (EAAB)
 De la Secretaría Distrital de Planeación se consiguió la base “Proyecciones y retroproyecciones de Población (2005–2035)”, disponible en Datos Abiertos Bogotá.
 Se realizó la suma de los totales de cabeceras municipales por año para obtener el valor que en el indicador aparece como PUT (Población Urbana Total). Sin embargo, al comparar este valor predicho con el cuadro demográfico del Censo 2018 del DANE, se encontró que existe discrepancia (el valor predicho es erróneo frente al censo).
 
+Adjunto link de la base de datos utilizada para el PUT
+
+https://datosabiertos.bogota.gov.co/dataset/proyecciones-y-retroproyecciones-de-poblacion-2005-2035
+
 
 Situación actual del TACR
 
