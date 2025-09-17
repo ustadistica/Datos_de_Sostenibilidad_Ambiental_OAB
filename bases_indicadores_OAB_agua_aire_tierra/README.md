@@ -28,3 +28,50 @@ Se revisó también la base de datos de pozos con información de monitoreo.
 Al igual que con el WQI, se encontró en formato espacial (capas geográficas) y no como tabla de valores fácilmente manipulables.
 
 Dada esta limitación, tampoco se visualizó ni se usó para la tarea.
+
+## Teecer paso: Consumo Residencial de Agua por Habitante (CRAPH)
+
+Para este indicador se identificó que los datos provienen de tres entidades:
+
+Departamento Administrativo Nacional de Estadística (DANE) – Censo 2018
+
+Secretaría Distrital de Planeación (SDP) – Proyecciones y retroproyecciones de población
+
+Empresa de Acueducto y Alcantarillado de Bogotá (EAAB)
+
+De la Secretaría Distrital de Planeación se consiguió la base “Proyecciones y retroproyecciones de Población (2005–2035)”, disponible en Datos Abiertos Bogotá.
+Se realizó la suma de los totales de cabeceras municipales por año para obtener el valor que en el indicador aparece como PUT (Población Urbana Total). Sin embargo, al comparar este valor predicho con el cuadro demográfico del Censo 2018 del DANE, se encontró que existe discrepancia (el valor predicho es erróneo frente al censo).
+
+
+Situación actual del TACR
+
+No se logró conseguir directamente el TACR (Total de agua consumida para uso residencial en el área urbana) en ninguna base abierta. Se plantea que el OAB pudo haberlo calculado como multiplicación de dos valores (por ejemplo, consumo per cápita × población), pero esto es solo una hipótesis.
+Para aclarar este punto se recomienda enviar un correo al OAB solicitando la metodología exacta usada para derivar el TACR, ya que sin esa información no se tienen completamente los datos detrás del indicador CRAPH.
+
+#### Correo redactado:
+
+Asunto: Solicitud de información sobre el cálculo del indicador TACR
+
+Estimados/as responsables del Observatorio Ambiental de Bogotá,
+
+Reciban un cordial saludo.
+
+Somos un grupo de estudiantes de la Facultad de Estadística de la Universidad Santo Tomás, de la asignatura Consultoría e Investigación. Como parte de un trabajo académico estamos analizando los indicadores de agua publicados por el OAB, en particular el Consumo Residencial de Agua por Habitante (CRAPH).
+
+Al revisar las fuentes de datos identificamos las entidades de origen (DANE, SDP y EAAB) y logramos ubicar las proyecciones de población en Datos Abiertos Bogotá. Sin embargo, no hemos podido encontrar la base que respalde directamente el valor del TACR (Total de Agua Consumida para Uso Residencial en el Área Urbana) reportado en el indicador.
+
+Por lo anterior, quisiéramos amablemente solicitarles:
+
+Que nos indiquen cuál es la metodología utilizada para calcular el TACR.
+
+En caso de ser posible, que nos orienten sobre la fuente o bases de datos específicas de donde se obtiene el volumen total de agua consumida para uso residencial en el área urbana.
+
+Esta información nos permitirá comprender de forma correcta el proceso de construcción del indicador, con fines estrictamente académicos.
+
+Agradecemos de antemano su atención y colaboración.
+
+Atentamente,
+
+Facultad de Estadística – Universidad Santo Tomás
+
+
