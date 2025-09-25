@@ -35,7 +35,7 @@ Descarga de datos:
 Finalmente, después de seleccionar estación, indicador y fechas, el script activa la opción de descarga de datos. Este proceso se repite para todas las estaciones y todos los años definidos.
 
 
-## 4) Beneficios del Proceso Automatizado
+## 4) Beneficios del Proceso Automatizado
 
 Ahorro de tiempo: ya no es necesario seleccionar manualmente cada estación y cada año.
 
