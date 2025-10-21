@@ -1,0 +1,22 @@
+import os
+import requests
+
+# carpeta de descargas
+os.makedirs("descargas_contratos", exist_ok=True)
+
+# URL SECOP II - Contratos Electrónicos
+URL = "https://www.datos.gov.co/api/views/jbjy-vk9h/rows.csv?accessType=DOWNLOAD"
+
+# archivo 
+ruta_salida = os.path.join("descargas_contratos", "contratos_electronicos_secopII.csv")
+
+print("Descargando archivo de contratos electrónicos desde Datos Abiertos...")
+
+# descarga
+respuesta = requests.get(URL)
+if respuesta.status_code == 200:
+with open(ruta_salida, "wb") as archivo:
+archivo.write(respuesta.content)
+print(f"Archivo descargado con éxito en: {ruta_salida}")
+else:
+print(f"Error al descargar el archivo. Código de estado: {respuesta.status_code}")
